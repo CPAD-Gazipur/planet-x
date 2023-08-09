@@ -80,7 +80,20 @@ class PlanetCardWidget extends StatelessWidget {
           Hero(
             tag: planet.position,
             child: Image.asset(planet.iconImage.toString()),
-          )
+          ),
+          Positioned(
+            top: 120,
+            right: 20,
+            child: IgnorePointer(
+              child: Text(
+                planet.position.toString(),
+                style: kMontserratBold.copyWith(
+                  fontSize: 150,
+                  color: Colors.grey.withOpacity(0.2),
+                ),
+              ),
+            ),
+          ),
         ],
       ),
     );

@@ -1,16 +1,31 @@
 # planet_x
 
-A Flutter project to know more about our universe
+A Flutter project to know more about our universe. 
 
-## Getting Started
+**Support Me**
 
-This project is a starting point for a Flutter application.
+- Support me via buy me a coffee. [here](https://www.buymeacoffee.com/alaminkarno)
 
-A few resources to get you started if this is your first Flutter project:
+**Inspired from**
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- Code with GitHub by [Anand Krishna](https://github.com/Krishak15)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+**Code Credit**
+
+- Code using Flutter with ❤️ by [Md. Al-Amin](https://github.com/alamin-karno)
+
+## Animation and Screenshots (GIF):
+|                PlanetX App (GIF)                |                   HomeScreen                    |                  DetailsView Screen                  |
+|:-----------------------------------------------:|:-----------------------------------------------:|:----------------------------------------------------:|
+| <img src="screenshots/planetx.gif" width="250"> | <img src="screenshots/home_ui.png" width="250"> | <img src="screenshots/details_view.png" width="250"> |
+
+
+### Repository Owner Info
+
+### Md. Al-Amin
+##### Junior Software Engineer (Android & iOS) at Rokomari.com
+
+__Email :__ [alamin.karno@outlook.com](mailto:alamin.karno@outlook.com) \
+__Github :__ [Md. Al-Amin](https://github.com/alamin-karno) \
+__Facebook :__ [মোঃ আল-আমিন খন্দকার কর্ণ](https://facebook.com/alamin.kanro) \
+__Linkedin :__ [Md. Al-Amin](https://www.linkedin.com/in/alaminkarno/)
